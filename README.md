@@ -1,4 +1,4 @@
-# Jiogo de inglês em angular
+# Jogo de inglês em angular
 
 [![FVCproductions](https://raw.githubusercontent.com/HigorRobertoDev/imagens/master/jogo-ingles-angular/jogo-ingles.png)]()
 
